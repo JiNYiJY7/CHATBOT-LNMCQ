@@ -12,6 +12,10 @@ my_chatbot/
 ├─ .env                      # environment variables (not committed)
 └─ .gitignore
 
+```
+
+
+
 ## Run
 
 ```bash
