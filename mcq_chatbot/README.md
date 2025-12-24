@@ -14,7 +14,3 @@ my_chatbot/
 ├─ .env                      # environment variables (not committed)
 └─ .gitignore
 
-
-
-```bash
-python main.py
